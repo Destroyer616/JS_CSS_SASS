@@ -1,0 +1,9 @@
+button {
+    background: grey;
+
+    &:hover {
+        background: rgb(121, 236, 121);
+    }
+}
+
+@import "./_h1.scss";

@@ -1,0 +1,13 @@
+button {
+  background: grey;
+}
+button:hover {
+  background: #79ec79;
+}
+
+h1 {
+  background: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=styles.css.map */
